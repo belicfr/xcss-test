@@ -1,0 +1,5 @@
+@Target "/src/css/index.css "test" lol";
+
+h1 {
+    color: blue;
+}
